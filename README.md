@@ -7,3 +7,4 @@ https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 https://leetcode.com/problems/number-of-senior-citizens/
 
 ## Day 3: 1460. Make Two Arrays Equal by Reversing Subarrays
+https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/
