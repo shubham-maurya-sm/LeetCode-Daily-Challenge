@@ -8,3 +8,6 @@ https://leetcode.com/problems/number-of-senior-citizens/
 
 ## Day 3: 1460. Make Two Arrays Equal by Reversing Subarrays
 https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/
+
+## Day 4: 719. Find K-th Smallest Pair Distance
+https://leetcode.com/problems/find-k-th-smallest-pair-distance/
