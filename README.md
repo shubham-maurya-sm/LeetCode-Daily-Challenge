@@ -14,3 +14,6 @@ https://leetcode.com/problems/find-k-th-smallest-pair-distance/
 
 ## Day 5: 860. Lemonade Change
 https://leetcode.com/problems/lemonade-change/
+
+## Day 6: 624. Maximum Distance in Arrays
+https://leetcode.com/problems/maximum-distance-in-arrays/
