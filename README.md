@@ -17,3 +17,6 @@ https://leetcode.com/problems/lemonade-change/
 
 ## Day 6: 624. Maximum Distance in Arrays
 https://leetcode.com/problems/maximum-distance-in-arrays/
+
+## Day 7: 1937. Maximum Number of Points with Cost
+https://leetcode.com/problems/maximum-number-of-points-with-cost/
