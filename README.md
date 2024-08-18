@@ -20,3 +20,6 @@ https://leetcode.com/problems/maximum-distance-in-arrays/
 
 ## Day 7: 1937. Maximum Number of Points with Cost
 https://leetcode.com/problems/maximum-number-of-points-with-cost/
+
+## Day 8: 264. Ugly Number II
+https://leetcode.com/problems/ugly-number-ii/
