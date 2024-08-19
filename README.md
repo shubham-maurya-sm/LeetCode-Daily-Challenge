@@ -23,3 +23,6 @@ https://leetcode.com/problems/maximum-number-of-points-with-cost/
 
 ## Day 8: 264. Ugly Number II
 https://leetcode.com/problems/ugly-number-ii/
+
+## Day 9: 650. 2 Keys Keyboard
+https://leetcode.com/problems/2-keys-keyboard/
