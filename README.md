@@ -29,3 +29,6 @@ https://leetcode.com/problems/2-keys-keyboard/
 
 ## Day 10: 1140. Stone Game II
 https://leetcode.com/problems/stone-game-ii
+
+## Day 11: 664. Strange Printer
+https://leetcode.com/problems/strange-printer/
