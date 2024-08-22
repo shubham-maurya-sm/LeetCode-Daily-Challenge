@@ -32,3 +32,6 @@ https://leetcode.com/problems/stone-game-ii
 
 ## Day 11: 664. Strange Printer
 https://leetcode.com/problems/strange-printer/
+
+## Day 12: 476. Number Complement
+https://leetcode.com/problems/number-complement/
