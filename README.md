@@ -38,3 +38,6 @@ https://leetcode.com/problems/number-complement/
 
 ## Day 13: 592. Fraction Addition and Subtraction
 https://leetcode.com/problems/fraction-addition-and-subtraction/
+
+## Day 14: 564. Find the Closest Palindrome
+https://leetcode.com/problems/find-the-closest-palindrome/
