@@ -44,3 +44,6 @@ https://leetcode.com/problems/find-the-closest-palindrome/
 
 ## Day 15 : 145. Binary Tree Postorder Traversal
 https://leetcode.com/problems/binary-tree-postorder-traversal/
+
+## Day 16: 590. N-ary Tree Postorder Traversal
+https://leetcode.com/problems/n-ary-tree-postorder-traversal/
