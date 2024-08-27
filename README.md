@@ -47,3 +47,6 @@ https://leetcode.com/problems/binary-tree-postorder-traversal/
 
 ## Day 16: 590. N-ary Tree Postorder Traversal
 https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+
+## Day 17: 1514. Path with Maximum Probability
+https://leetcode.com/problems/path-with-maximum-probability/
