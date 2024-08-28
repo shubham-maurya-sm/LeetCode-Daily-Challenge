@@ -50,3 +50,6 @@ https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 
 ## Day 17: 1514. Path with Maximum Probability
 https://leetcode.com/problems/path-with-maximum-probability/
+
+## Day 18: 1905. Count Sub Islands
+https://leetcode.com/problems/count-sub-islands/
