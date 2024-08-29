@@ -53,3 +53,6 @@ https://leetcode.com/problems/path-with-maximum-probability/
 
 ## Day 18: 1905. Count Sub Islands
 https://leetcode.com/problems/count-sub-islands/
+
+## Dat 19: 947. Most Stones Removed with Same Row or Column
+https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
