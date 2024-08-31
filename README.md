@@ -59,3 +59,6 @@ https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
 
 ## Day 20: 2699. Modify Graph Edge Weights
 https://leetcode.com/problems/modify-graph-edge-weights/
+
+## Day 21: 1514. Path with Maximum Probability
+https://leetcode.com/problems/path-with-maximum-probability/
