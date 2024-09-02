@@ -65,3 +65,6 @@ https://leetcode.com/problems/path-with-maximum-probability/
 
 ## Day 22: 2022. Convert 1D Array Into 2D Array
 https://leetcode.com/problems/convert-1d-array-into-2d-array/
+
+## Day 23: 1894. Find the Student that Will Replace the Chalk
+https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/
