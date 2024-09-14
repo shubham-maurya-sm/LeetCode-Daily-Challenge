@@ -69,4 +69,5 @@ https://leetcode.com/problems/convert-1d-array-into-2d-array/
 ## Day 23: 1894. Find the Student that Will Replace the Chalk
 https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/
 
-
+## Day 24: 2419. Longest Subarray With Maximum Bitwise AND
+https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/
