@@ -13,7 +13,6 @@ The bitwise AND of an array is the bitwise AND of all the numbers in it.
 A subarray is a contiguous sequence of elements within an array.
 
  
-
 Example 1:
 
 Input: nums = [1,2,3,3,2,2]
